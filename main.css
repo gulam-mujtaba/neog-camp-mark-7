@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Courgette&display=swap");
+
+* {
+  font-family: Courgette;
+}
+.heading {
+  text-align: center;
+  padding: 1rem;
+  margin: 5px;
+  background-repeat: initial;
+  color: #01003a;
+  font-weight: lighter;
+  font-size: larger;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXsaRdgVUp82-yAZRJTMC17rvQm4gOgUGmlBoMo5UM3e5-pQkCkv2R5SJDzd7CBkF9RQc&usqp=CAU");
+  image-rendering: optimizeSpeed;
+  border-style: double;
+
+  border-color: white;
+  max-width: 100%;
+  align-content: center;
+
+  border-width: 10px;
+}
+.container {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+
+  width: 50%;
+  color: rgb(73, 73, 60);
+  text-align: center;
+  border-radius: 50px;
+}
+
+.about-sec {
+  text-align: center;
+  font-size: small;
+  margin: 20px;
+}
+body {
+  background-color: #cac8c8;
+}
+button {
+  color: #262c31;
+  background-color: #348b84;
+  border-radius: 15px;
+  border-color: cornflowerblue;
+  margin: 15px;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 5px;
+  width: 80%;
+  align-self: center;
+}
+
+.placeholder {
+  color: beige;
+  border-radius: 15px;
+}
+
+#input-area {
+  font-size: 18pt;
+  margin: 12px;
+  padding: auto;
+  border-radius: 10px;
+  color: rgb(139, 63, 0);
+  background-color: #fff3cb;
+  border-width: 4px;
+  border-color: #6d6d6d;
+}
+
+.about {
+  color: #353535;
+  font-size: x-large;
+}
+.para {
+  font-size: large;
+  margin: 10px;
+}
+#output {
+  font-size: x-large;
+  color: #000000;
+  font-weight: bold;
+  background-color: #807a72;
+  border-radius: 12px;
+  padding: 15px;
+
+  align-self: center;
+  width: 45vw;
+  height: 15vh;
+  border-width: 40px;
+}
