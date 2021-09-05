@@ -1,4 +1,4 @@
-# Shakespeare Translator
+# Talking Shakespeare!
 Follow these steps to get your text translated to Shakespeare Language.
 
 1. Write a sentence in English into the input.
